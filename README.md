@@ -24,4 +24,6 @@ Character animator with a soft spot for coding and hyperfocusing on random thing
   [![Lauloque's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lauloque&theme=material-palenight)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
+<!---
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&textBg=false&reversal=false&desc=Thanks%20for%20checking&descAlignY=65&section=footer)
+--->
