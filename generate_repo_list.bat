@@ -17,7 +17,7 @@ if %errorlevel% neq 0 (
 )
 
 :: Set theme (you can change this)
-set THEME=catppuccin_mocha
+set THEME=catppuccin_mocha&hide_border=true
 
 :: Get current authenticated username
 for /f "tokens=*" %%u in ('gh api user --jq ".login"') do set USERNAME=%%u
