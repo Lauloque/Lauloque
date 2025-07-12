@@ -13,7 +13,7 @@ Then use
 ```md
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=convertRotationMode&theme=catppuccin_mocha)](https://github.com/Lauloque/convertRotationMode)
 ```
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=convertRotationMode&theme=catppuccin_mocha)](https://github.com/Lauloque/convertRotationMode)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=convertRotationMode&theme=catppuccin_mocha&hide_border=true)](https://github.com/Lauloque/convertRotationMode)
 
 ## Using the bat file
 
