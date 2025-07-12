@@ -15,6 +15,8 @@
 Character animator with a soft spot for coding and hyperfocusing on random things. I make Blender addons and scripts to smooth out workflows and share them with others, I even [contributed](https://projects.blender.org/Lauloque?tab=activity) (just a little bit). Happy if they helps, and grateful to anyone who finds value in what I share 🧡
 
 
+
+
 ## 📈 GitHub Activity
   
 <div align="center">
@@ -27,3 +29,28 @@ Character animator with a soft spot for coding and hyperfocusing on random thing
 <!---
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&textBg=false&reversal=false&desc=Thanks%20for%20checking&descAlignY=65&section=footer)
 --->
+
+## Notable works:
+
+### Table of contents
+
+   * [Blender Addons](#blender-addons)
+   * [Browser Userscripts](#browser-userscripts)
+   * [FFmpeg](#ffmpeg)
+   * [Others](#others)
+
+### Blender Addons
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=AudioNotifier&theme=catppuccin_mocha)](https://github.com/Lauloque/AudioNotifier) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=Autokey-Highlight&theme=catppuccin_mocha)](https://github.com/Lauloque/Autokey-Highlight) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=bl_reset_custom_properties&theme=catppuccin_mocha)](https://github.com/Lauloque/bl_reset_custom_properties) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=convertRotationMode&theme=catppuccin_mocha)](https://github.com/Lauloque/convertRotationMode) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=GizmoTools&theme=catppuccin_mocha)](https://github.com/Lauloque/GizmoTools) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=History_Panel&theme=catppuccin_mocha)](https://github.com/Lauloque/History_Panel) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=import_synkscetch_notes&theme=catppuccin_mocha)](https://github.com/Lauloque/import_synkscetch_notes) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=LauloqueMayaScriptsDump&theme=catppuccin_mocha)](https://github.com/Lauloque/LauloqueMayaScriptsDump) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=LoopMethods&theme=catppuccin_mocha)](https://github.com/Lauloque/LoopMethods) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=RigAnimTools&theme=catppuccin_mocha)](https://github.com/Lauloque/RigAnimTools) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=setViewportDisplay&theme=catppuccin_mocha)](https://github.com/Lauloque/setViewportDisplay)
+
+### Browser Userscripts
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=BCom-Toolbox&theme=catppuccin_mocha)](https://github.com/Lauloque/BCom-Toolbox) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=Blender.Community.Textformatter&theme=catppuccin_mocha)](https://github.com/Lauloque/Blender.Community.Textformatter) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=BSE-Toolbox&theme=catppuccin_mocha)](https://github.com/Lauloque/BSE-Toolbox) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=kbd-formatting-for-SE&theme=catppuccin_mocha)](https://github.com/Lauloque/kbd-formatting-for-SE) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=OCTweaksScript&theme=catppuccin_mocha)](https://github.com/Lauloque/OCTweaksScript)
+
+### FFmpeg
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=FFmpeg-bat-collection&theme=catppuccin_mocha)](https://github.com/Lauloque/FFmpeg-bat-collection) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=FFmpeg-py-collection&theme=catppuccin_mocha)](https://github.com/Lauloque/FFmpeg-py-collection)
+
+### Others
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=ImageSequenceTranscoder&theme=catppuccin_mocha)](https://github.com/Lauloque/ImageSequenceTranscoder) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=Keyboard-Formatter&theme=catppuccin_mocha)](https://github.com/Lauloque/Keyboard-Formatter) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=ScreenPen&theme=catppuccin_mocha)](https://github.com/Lauloque/ScreenPen) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Lauloque&repo=Set-folder-icon-RC&theme=catppuccin_mocha)](https://github.com/Lauloque/Set-folder-icon-RC)
