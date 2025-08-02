@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Loïc%20DAUTRY%20(Lauloque)&textBg=false&reversal=false&desc=3D%20Character%20Animator%20,%20and%other%20things&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Loïc%20DAUTRY%20(Lauloque)&textBg=false&reversal=false&desc=3D%20Character%20Animator%20procrastinating%20via%20programming&descAlignY=65)
 
 <div align="center">
   
