@@ -30,6 +30,8 @@ Character animator with a soft spot for coding and hyperfocusing on random thing
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&textBg=false&reversal=false&desc=Thanks%20for%20checking&descAlignY=65&section=footer)
 --->
 
+[Boot.dev Portfolio](https://www.boot.dev/u/lauloque)
+
 ## Notable works:
 
 ### Table of contents
