@@ -14,7 +14,11 @@
 
 Character animator with a soft spot for coding and hyperfocusing on random things. I make Blender addons and scripts to smooth out workflows and share them with others, I even [contributed](https://projects.blender.org/Lauloque?tab=activity) (just a little bit). Happy if they helps, and grateful to anyone who finds value in what I share 🧡
 
+[Join me on Boot.dev](https://www.boot.dev?bannerlord=lauloque) to loot some knowledge:
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/096b6c41-0b8a-4ecd-829d-2efbcafc6e58/thumbnail" >
+</p>
 
 
 ## 📈 GitHub Activity
