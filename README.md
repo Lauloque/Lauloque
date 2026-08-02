@@ -6,7 +6,9 @@
   [![Blender](https://img.shields.io/badge/Blender-3F95FD?style=for-the-badge&logo=blender&logoColor=white)](https://projects.blender.org/Lauloque?tab=activity)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-3261C1?style=for-the-badge&logo=linkedin&logoColor=white&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loicdautry)
   [![ArtStation](https://img.shields.io/badge/ArtStation-45BAFE?style=for-the-badge&logo=ArtStation&logoColor=white)](https://www.artstation.com/dautryloic) 
-  [![Ko-Fi](https://img.shields.io/badge/Support-D84A4F?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/lauloque) 
+
+  
+  [![Ko-Fi](https://img.shields.io/badge/Support%20on%20Kofi-D84A4F?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/lauloque) 
 
 </div>
 
